@@ -1,5 +1,6 @@
 $(window).on('scroll', function() {
 	smoothBackgroundScroll("../img/t13.jpeg");
+	activateScrolledSection('sideList');
 });
 
 function smoothBackgroundScroll(imgsrc) {
