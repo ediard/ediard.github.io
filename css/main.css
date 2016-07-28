@@ -1,8 +1,8 @@
 body {
   background-position: center 0;
-  background-repeat: repeat-y;
+  background-repeat: no-repeat;
   background-size:100%;
-  background-image: url("../img/t13.jpeg");
+  background-image: url("../img/t15.jpg");
   background-color: #cccccc;
 }
 nav {
