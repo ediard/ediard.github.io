@@ -1,5 +1,5 @@
 $(window).on('scroll', function() {
-	smoothBackgroundScroll("relative/image/url");
+	smoothBackgroundScroll("../img/t13.jpeg");
 });
 
 function smoothBackgroundScroll(imgsrc) {
