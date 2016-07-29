@@ -4,6 +4,7 @@ body {
   background-size:100%;
   background-image: url("../img/t15.jpg");
   background-color: #cccccc;
+  text-decoration-color: #0000cc;
 }
 nav {
   max-width: 100%;
@@ -40,10 +41,14 @@ nav ul li a:hover {
   color: rgba(0, 0, 0, 0.7);
 }
 p {
+  font-family: "Roboto";
   text-align: center;
   text-shadow: 1px 1px 1px
   rgba(255, 255, 255, 0.4);
 }
 div {
   margin: 3%;
+}
+h1 {
+  font-family: "Roboto";
 }
