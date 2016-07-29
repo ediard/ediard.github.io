@@ -44,3 +44,6 @@ p {
   text-shadow: 1px 1px 1px
   rgba(255, 255, 255, 0.4);
 }
+div {
+  margin: 3%;
+}
