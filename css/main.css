@@ -42,7 +42,7 @@ p {
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   text-align: center;
   text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.4);
-  color: #0000cc;
+  color:#ffb31a;
 }
 div {
   margin: 3%;
@@ -50,5 +50,5 @@ div {
 h1 {
   font-family: "Trebuchet MS", Helvetica, sans-serif;
   text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.4);
-  color: #0000cc;
+  color:#ffb31a;
 }
