@@ -4,7 +4,6 @@ body {
   background-size:100%;
   background-image: url("../img/t15.jpg");
   background-color: #cccccc;
-  text-decoration-color: #0000cc;
 }
 nav {
   max-width: 100%;
@@ -28,12 +27,11 @@ nav ul li {
 nav ul li a {
   padding: 20px;
   font-family: "Roboto";
-  color: rgba(0, 0, 0, 0.5);
+  color: rgba(0, 0, 204, 0.5);
   text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.4);
   font-size: 25px;
   text-decoration: none;
   display: block;
-  color: #ffcc99;
 }
 nav ul li a:hover {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
@@ -43,12 +41,13 @@ nav ul li a:hover {
 p {
   font-family: "Roboto";
   text-align: center;
-  text-shadow: 1px 1px 1px
-  rgba(255, 255, 255, 0.4);
+  text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.4);
+  color: #0000cc;
 }
 div {
   margin: 3%;
 }
 h1 {
   font-family: "Roboto";
+  color: #0000cc;
 }
